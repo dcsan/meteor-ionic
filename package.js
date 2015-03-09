@@ -1,7 +1,7 @@
 Package.describe({
   name: "dcsan:ionic",
   summary: "Ionic components for Meteor. No Angular!",
-  version: "0.1.17",
+  version: "0.1.17_3",
   git: "https://github.com/dcsan/meteor-ionic.git"
   // git: "https://github.com/meteoric/meteor-ionic.git"
 });
